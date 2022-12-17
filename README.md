@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @Cheburilla
-- 👀 I’m interested in videogames industry or databases and bigdata industries
+- 👀 I’m interested in databases and bigdata industries and videogames maybe
 - 🌱 I’m currently learning Python, C++, C# and more, but prefer Python
 - 💞️ I’m looking to collaborate on any projects for my portfolio
-- 📫 How to reach me: sanya.safron2003@gmail.com
+- 📫 How to reach me: 
+  - sanya.safron2003@gmail.com
+  - vk.com/cheebupel
+  - t.me/cheebupel
 
 <!---
 Cheburilla/Cheburilla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
