@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cheburilla
-- 👀 I’m interested in databases and bigdata industries and videogames maybe
+- 👀 I’m interested in ML and AI industries and videogames maybe
 - 🌱 I’m currently learning Python, C++, C# and more, but prefer Python
 - 💞️ I’m looking to collaborate on any projects for my portfolio
 - 📫 How to reach me: 
