@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cheburilla
-- 👀 I’m interested in Flutter development and ML and AI industries
+- 👀 I’m interested in Flutter development
 - 🌱 I’m currently learning Dart, also Python, C++, C# and more
 - 💞️ I’m looking to collaborate on any projects for my portfolio
 - 📫 How to reach me: 
