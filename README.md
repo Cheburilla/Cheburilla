@@ -7,7 +7,7 @@
   - vk.com/cheebupel
   - t.me/cheebupel
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cheburilla&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-pqvx.vercel.app/api?username=Cheburilla&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Cheburilla/Cheburilla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
